@@ -81,7 +81,7 @@ See clothes_classifier_training.ipynb for full details.
      git commit -m "Add README"
      git push origin main
 
-##Kaggle Dataset 
+Kaggle Dataset 
 
-    `(https://www.kaggle.com/datasets/ryanbadai/clothes-dataset)`
+    (https://www.kaggle.com/datasets/ryanbadai/clothes-dataset)
 
